@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PruebaPDF.Controllers.PdfController",
+    "Method": "GeneratePdf",
+    "RelativePath": "api/Pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "html",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdxIFv9Gnj8+hLRyZ1Ud145d2A6G3VUrvijkg4KdeJXpYjTrIBYLXyr4HJcrL8XG7XYYsEg0qMfQqtdSgdcdnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdholguinvillegas\\Desktop\\Nueva carpeta\\PruebaPDF\\PruebaPDF\\PruebaPDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdholguinvillegas\\.nuget\\packages\\codaxy.wkhtmltopdf\\0.5.8\\codaxy.wkhtmltopdf.0.5.8.nupkg.sha512",
+    "C:\\Users\\mdholguinvillegas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mdholguinvillegas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mdholguinvillegas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\mdholguinvillegas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\mdholguinvillegas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\mdholguinvillegas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
